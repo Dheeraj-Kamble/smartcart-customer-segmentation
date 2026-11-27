@@ -1,0 +1,10 @@
+metric,value
+input_rows,2240
+input_columns,22
+missing_income_before,24
+missing_values_after_income_fill,0
+pca_variance_pc1,0.22162067315546552
+pca_variance_pc2,0.1138294420147749
+pca_variance_pc3,0.10374958658532367
+reference_date,2014-06-29
+clusters,4

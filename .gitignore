@@ -1,0 +1,6 @@
+# Keep raw and row-level customer data out of version control.
+/data/*.csv
+/results/customers_with_clusters.csv
+__pycache__/
+.venv/
+*.py[cod]
